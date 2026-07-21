@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Sales Dashboard
 
-Interactive sales analytics dashboard built using Power BI/Tableau.
+An interactive Excel dashboard that transforms coffee shop sales data into meaningful business insights through KPI tracking, sales trends, customer purchasing patterns, and product performance analysis.
 
 ## 🚀 Project Highlights
 - Sales trend analysis
